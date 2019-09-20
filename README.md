@@ -44,7 +44,7 @@ cut - command that used to handle files with columns. Column numbers can be spec
 
 |  - pipe used to intergrate functions of two or more commands. Placing it between commands passes execusions of the previous command to the later.
 
-Several other useful unix commands including 'tail, head, sed' are use to handle files.
+Several other useful unix commands including 'tail, head, sed' are used to handle files.
 
 ## tada!
 
